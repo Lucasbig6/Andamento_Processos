@@ -1,4 +1,4 @@
-# Andamento de Processos
+# Painel de Andamento de Processos
 
 Painel cujo o intuito e auxiliar a Secretária de Saúde do Estado a monitorar o andamento de Processos e Status.
 
